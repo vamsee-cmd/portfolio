@@ -4,11 +4,11 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">    
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Vamshi's portfolio</title>
     <style>
    
    body{
@@ -192,10 +192,14 @@ to align it properly */
   }
 }
 
+.bgdrk{
+  
+  background-image: url("./images/bgrnd.jpg");
+}
     </style>
 </head>
 <body>
-    <div class="bg-dark">
+    <div class="bgdrk bg-dark">
     <nav class="navbar navbar-dark  bg-dark" style="position:fixed; width:100%; z-index: 100; color:white;">
   <div class="container navbar-dark">
     <a class="navbar-brand" href="index.php">
@@ -208,7 +212,7 @@ to align it properly */
     </a>
     <a class="nav-link" href="#connect">
     Connect
-    </a><a class="nav-link" href="#">
+    </a><a class="nav-link" href="#connect">
     Home
     </a>
 </nav>
