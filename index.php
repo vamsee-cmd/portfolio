@@ -37,15 +37,7 @@
       		&nbsp;
       		<a href="https://github.com/vamsee-cmd" target="_blank"><i class="fab fa-github faicon"></i></a>
       		&nbsp;
-      		<a id="email" target="_blank"><i class="fas fa-envelope faicon"></i></a>
-
-      		<script type="text/javascript">
-      			const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
-      			let a = document.getElementById('email');
-        			if(vw <= 800) {
-        				a.href = "mailto:vamshi.embadi1234@gmail.com"
-        			}
-	        </script>
+      		<a id="email" target="_blank" href="mailto:vamshi.embadi1234@gmail.com"><i class="fas fa-envelope faicon"></i></a>
 
 	        <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
             <ul class="pure-menu-list">
