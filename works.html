@@ -45,7 +45,7 @@
     <div class="header">
       <img class="profile" src="assets/img/profile.png" style="  border-radius: 50%;">
         <h1 class="profile-name">Vamshikrishna Embadi</h1>
-        <h2 style="font-family: 'Bad Script', Sans-serif; font-size: 20px; color: dimgray; font-weight: bolder; text-decoration-line: underline; text-decoration-style: wavy; margin-top: -20px"><span class="txt-rotate" data-period="1000" data-rotate='["Computer science student", "Software Engineer", "Web dev"]'></span></h2>
+        <h2 style="font-family: 'Bad Script', Sans-serif; font-size: 20px; color: dimgray; font-weight: bolder; text-decoration-style: wavy; margin-top: -20px"><span class="txt-rotate" data-period="1000" data-rotate='["Computer science student", "Software Engineer", "Web dev"]'></span></h2>
           <a href="https://www.linkedin.com/in/vamshi-embadi/" target="_blank"><i class="fab fa-linkedin-in faicon"></i></a>
         &nbsp;
         <a href="https://github.com/vamsee-cmd" target="_blank"><i class="fab fa-github faicon"></i></a>
@@ -144,7 +144,40 @@
       </div>
     </a>
   </div>-->
+  <div class="container cards-container">
+    <div class="cardie">
+      <div class="row"><div class="col"><i class="fa fa-code fa-2x"></i></div></div>
+        <div class="row"><div class="col"><h2 class="timer count-title count-number" data-to="20000" data-speed="3000"></h2></div></div>
+        <div class="row"><div class="col"><p class="count-text" style="text-align: center !important;">Lines of Code written</p></div></div>
+      </div>
 
+      <div class="cardie">
+        <div class="row"><div class="col"><i class="fa fa-coffee fa-2x"></i></div></div>
+        <div class="row"><div class="col"><h2 class="timer count-title count-number" data-to="1000" data-speed="3000"></h2></div></div>
+          <div class="row"><div class="col"><p class="count-text" style="text-align: center !important;">Cups of coffee drank</p></div></div>
+      </div>
+
+      <div class="cardie">
+        <div class="row"><div class="col"><i class="fas fa-lightbulb fa-2x"></i></div></div>
+        <div class="row"><div class="col"><h2 class="timer count-title count-number" id="projects" data-to="4" data-speed="3000"></h2></div></div>
+  
+    <script type="text/javascript">
+      $(function() {
+        setTimeout(function() {
+          $("#projects").html("20+");
+        }, 4000);
+      });
+    </script>
+
+    <div class="row"><div class="col"><p class="count-text" style="text-align: center !important;">Projects Done</p></div></div>
+      </div>
+
+      <div class="cardie">
+        <div class="row"><div class="col"><i class="fa fa-bug fa-2x"></i></div></div>
+        <div class="row"><div class="col"><h2 class="timer count-title count-number" data-to="2000" data-speed="3000"></h2></div></div>
+        <div class="row"><div class="col"><p class="count-text" style="text-align: center !important;">Bugs squashed</p></div></div>
+      </div>
+    </div>
   <script type="text/javascript">
     $("div.works").hover(function() {
       $(this).find("i.works-link").css("display", "block");
@@ -154,5 +187,57 @@
       $(this).find("p.website").css("display", "none");
     });
   </script>
+  <div class="content"><center><h1>My skills</h1></center></div>
+  <div class="container cards-container">
+      <div class="card">
+        <div class="row"><div class="col"><i class="fab fa-java fa-4x" style="color:rgb(56, 26, 194);"></i></i></div></div>
+        <div class="row"><div class="col"><h2 class>Java</h2></div></div>
+        </div>
+        <div class="card">
+          <div class="row"><div class="col"><i class="fas fa-database fa-4x" style="color:rgb(104, 15, 42);"></i></i></div></div>
+          <div class="row"><div class="col"><h2 class>SQL</h2></div></div>
+          </div>
+        <div class="card">
+        <div class="row"><div class="col"><i class="fab fa-bootstrap fa-4x" style="color:rgb(60, 18, 247);"></i></i></i></div></div>
+        <div class="row"><div class="col"><h2 class>Bootstrap</h2></div></div>
+        </div>
+        <div class="card">
+      <div class="row"><div class="col"><i class="fab fa-html5 fa-4x"  style="color:rgb(240, 170, 18);"></i></i></i></div></div>
+       <div class="row"><div class="col"><h2 class>HTML5</h2></div></div>
+       </div>
+       <div class="card">
+        <div class="row"><div class="col"><img src="./assets/img/cpp.png" height="100px"></img></div></div>
+        <div class="row"><div class="col"><h2 class>C++</h2></div></div>
+        </div><div class="card">
+          <div class="row"><div class="col"><i class="fab fa-cuttlefish fa-4x"></i></i></i></i></i></div></div>
+          <div class="row"><div class="col"><h2 class>C</h2></div></div>
+          </div>
+      </div>
+      <div class="container cards-container">
+        <div class="card">
+          <div class="row"><div class="col"><i class="fab fa-php fa-4x" style="color:rgb(174, 172, 180);"></i></i></i></div></div>
+          <div class="row"><div class="col"><h2 class>php</h2></div></div>
+          </div>
+          <div class="card">
+            <div class="row"><div class="col"><i class="fab fa-css3 fa-4x" style="color:rgb(10, 248, 62);"></i></i></div></div>
+            <div class="row"><div class="col"><h2 class>CSS</h2></div></div>
+            </div>
+          <div class="card">
+          <div class="row"><div class="col"><i class="fab fa-js fa-4x" style="color:rgb(253, 249, 0);"></i></i></i></i></div></div>
+          <div class="row"><div class="col"><h2 class>javascript</h2></div></div>
+          </div>
+          <div class="card">
+        <div class="row"><div class="col"><i class="fab fa-android fa-4x" style="color:rgb(13, 173, 27);"></i></i></i></div></div>
+         <div class="row"><div class="col"><h2 class>Android</h2></div></div>
+         </div>
+         <div class="card">
+          <div class="row"><div class="col"><i class="fab fa-python fa-4x" style="color:rgb(236, 204, 19);"></i></i></div></div>
+          <div class="row"><div class="col"><h2 class>Python</h2></div></div>
+          </div><div class="card">
+            <div class="row"><div class="col"><i class="fab fa-angular fa-4x" style="color:rgb(255, 2, 2);"></i></i></div></div>
+            <div class="row"><div class="col"><h2 class>Angular</h2></div></div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>

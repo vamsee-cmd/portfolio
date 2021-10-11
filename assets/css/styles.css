@@ -140,7 +140,8 @@ li{
     flex-wrap: wrap;
     text-align: center;
 }
-.card {
+
+.cardie {
     width: 110px;
     height: 160px;
     margin: 10px;
@@ -148,10 +149,28 @@ li{
     border: 2px solid lightgrey;
     border-radius: 10px;
 }
-.card:hover {
+.cardie:hover {
     /*box-shadow: 5px 5px 4px #888888;*/
     -webkit-box-shadow:  2px 4px 21px 0px rgba(148,133,148,0.75);
     -moz-box-shadow:  2px 4px 21px 0px rgba(148,133,148,0.75);
+    box-shadow:  2px 4px 21px 0px rgba(148,133,148,0.75);
+}
+.cardie .row {
+    margin-top: -5px;
+}
+
+.card {
+    width: 110px;
+    height: 160px;
+    margin: 10px;
+    padding: 20px 20px 0 20px; 
+    border: 2px solid rgb(13, 216, 172);
+    border-radius: 10px;
+}
+.card:hover {
+    /*box-shadow: 5px 5px 4px #888888;*/
+    -webkit-box-shadow:  2px 4px 21px 0px rgba(201, 44, 201, 0.75);
+    -moz-box-shadow:  2px 4px 21px 0px rgba(230, 8, 230, 0.75);
     box-shadow:  2px 4px 21px 0px rgba(148,133,148,0.75);
 }
 .card .row {
