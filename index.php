@@ -91,7 +91,7 @@ I completed my diploma from government polytechnic, Masabtank in 2019 with a deg
 	      </div>
       </div>
   </div>
-
+<?php ?>
 </body>
 
 </html>
