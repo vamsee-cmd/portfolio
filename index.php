@@ -3,6 +3,7 @@
 <html lang="en"><meta name="viewport" content="width=device-width, initial-scale=1">
 <head>
   <title>Home</title>
+  <title>vamshi's portfolio</title>
 
   <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Lato&display=swap">
@@ -59,6 +60,7 @@
       <p>I’m Vamshikrishna, a computer science student at Jyothishmathi institute of technology and science, Karimnagar in the <a class="links" href="https://jits.ac.in/computer-science-and-engineering/" target="_blank">Department of Computer Science and Engineering</a>.
 I completed my diploma from government polytechnic, Masabtank in 2019 with a degree in Computer science and engineering.</p>
       <p>I have previouly worked at <a class="links" href="https://pixelquestsolutions.com/" target="_blank">Pixel quest solutions</a> as a summer intern where I designed several python-based solutions for integrating third party API's into code.
+      <p>I have previously worked at <a class="links" href="https://pixelquestsolutions.com/" target="_blank">Pixel quest solutions</a> as a summer intern where I designed several python-based solutions for integrating third party API's into code.
       <p>My interest lies in embedded systems, internet of things and smart Artificial Intelligence.</p>
     </div>
 
