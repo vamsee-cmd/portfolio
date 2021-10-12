@@ -307,3 +307,20 @@ li{
 .form-style-6 input[type="button"]:hover{
 	background: #2EBC99;
 }
+
+html, body {
+    background: white;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    padding: 1em;
+  }
+  
+  .inversed {
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  }
