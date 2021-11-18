@@ -33,11 +33,11 @@
 				<img class="profile" src="assets/img/profile.png" style="  border-radius: 50%;">
       		<h1 class="profile-name">Vamshikrishna Embadi</h1>
           <h2 style="font-family: 'Bad Script', Sans-serif; font-size: 20px; color: dimgray; font-weight: bolder;  text-decoration-style: wavy; margin-top: -20px"><span class="txt-rotate" data-period="1000" data-rotate='["Computer science student", "Software Engineer", "Web dev"]'></span></h2>
-     	 		<a href="https://www.linkedin.com/in/vamshi-embadi/" target="_blank"><i class="fab fa-linkedin-in faicon"></i></a>
+     	 		<a href="https://docs.google.com/forms/d/e/1FAIpQLSdtJQJSLows3jjMGE4L0VxrLA3z8UpKEU7zbPWJUYpzZhmumA/viewform?usp=sf_link" target="_blank"><i class="fab fa-linkedin-in faicon"></i></a>
       		&nbsp;
-      		<a href="https://github.com/vamsee-cmd" target="_blank"><i class="fab fa-github faicon"></i></a>
+      		<a href="https://forms.gle/yurL63TaGQEfEuds8" target="_blank"><i class="fab fa-github faicon"></i></a>
       		&nbsp;
-      		<a id="email" target="_blank" href="mailto:vamshi.embadi1234@gmail.com"><i class="fas fa-envelope faicon"></i></a>
+      		<a id="email" target="_blank" href="https://forms.gle/1HHmiG8hQ3FNeNax5"><i class="fas fa-envelope faicon"></i></a>
 
 	        <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
             <ul class="pure-menu-list">
