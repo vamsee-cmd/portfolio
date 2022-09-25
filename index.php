@@ -64,7 +64,7 @@ I completed my diploma from government polytechnic, Masabtank in 2019 with a deg
 
 	  <!-- Resume -->
   	<div class="container resume-container">
-  		<a class="button" href="assets/Resume.pdf" target="_blank">Download my Resume &nbsp;<i class="fa fa-download"></i></a>
+  		<a class="button" href="assets/EMBADI%20VAMSHIKRISHNA%20resume.pdf" target="_blank">Download my Resume &nbsp;<i class="fa fa-download"></i></a>
 	  </div>
 
 		<!-- Experience -->
